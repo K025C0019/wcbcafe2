@@ -31,6 +31,12 @@ img {
     font-family: 'philosopheer', sans-serif;
     font-weight: normal;
 }
+.page-title,
+.heading-large,
+.heading-medium{
+    font-size: 3rem;
+    text-align: center;
+}
 .page-title {
     font-size: 3rem;
     text-align: center;
