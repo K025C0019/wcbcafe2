@@ -191,6 +191,7 @@ img {
 .info td{
     padding: 1rem 0;
 }
+/*サイドー*/
 /*デスクトップ版
 ------------------*/
 @media (min-width: 800px){
