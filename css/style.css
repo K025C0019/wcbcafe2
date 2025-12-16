@@ -202,6 +202,11 @@ img {
 }
 .side-menu a {
     color: #432;
+    display: block;
+    padding: 1rem;
+}
+.side-menu a:hover{
+    color: #0bd;
 }
 /*デスクトップ版
 ------------------*/
